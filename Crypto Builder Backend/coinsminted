@@ -1,0 +1,415 @@
+Minting 23 tokens
+  Token: CTpJrsZZ5Pj9FJasfkGR7zvwit169AdprtefhHr3fQe9
+  Recipient: DRWg6dZpKrnv8jogEG1V6PB5FSjLHCFWketT5ZY3bWJ1
+
+Signature: 23UVycbR8r1GuzaTcPa6nDGtngqTpdVFL827Kk8jALi9pWB3VLkQHSZc6pzPbFNsqX343foP9j2qTnaVChVEk6yZ
+
+Minting 234 tokens
+  Token: BsEHH7FchR6M4JA1Hh7avTCMj8AQ4nzFmA92MyNk9iKQ
+  Recipient: CEGAhVk5Q31XTgTTCyJh96V73ZYAQwcwVx8Yk4k8n48Q
+
+Signature: 4b7wxhwJ3JKbwuh4wt9w8sTd76uCoAHwFjTe33yZJCS2PvzMosfSo9goefPW4aw6bs5WrLMuTc39zTm2EMHd3wLN
+
+Minting 234 tokens
+  Token: BsEHH7FchR6M4JA1Hh7avTCMj8AQ4nzFmA92MyNk9iKQ
+  Recipient: CEGAhVk5Q31XTgTTCyJh96V73ZYAQwcwVx8Yk4k8n48Q
+
+Signature: 42jBp9Zydom7gVZ5UdPwMErHRTToStu3PTrxUZYF4rmQVGqkNB2AC3pdTEZwUi5vh2WFxGkaPgtAGVJwp8q3kxdC
+
+Minting 23 tokens
+  Token: CTpJrsZZ5Pj9FJasfkGR7zvwit169AdprtefhHr3fQe9
+  Recipient: DRWg6dZpKrnv8jogEG1V6PB5FSjLHCFWketT5ZY3bWJ1
+
+Signature: 2NJ7HKrzEuqm9MACi9E2hrK7QzJx8ymdiS1MunhXPEiQr2m5XmoEkWygsw8eBVh8GBo5JksRhD99HgqVF72P6ySo
+
+Minting 322 tokens
+  Token: CTpJrsZZ5Pj9FJasfkGR7zvwit169AdprtefhHr3fQe9
+  Recipient: DRWg6dZpKrnv8jogEG1V6PB5FSjLHCFWketT5ZY3bWJ1
+
+Signature: 5bJpUkyDoFRuy842QbqFsSoHg1Sx6N591wKwoXK9Mf9He63p14kvBzna65vhRFe6mqqoyCP14xefYTbRsimV6QoP
+
+Minting 21313 tokens
+  Token: CTpJrsZZ5Pj9FJasfkGR7zvwit169AdprtefhHr3fQe9
+  Recipient: DRWg6dZpKrnv8jogEG1V6PB5FSjLHCFWketT5ZY3bWJ1
+
+Signature: 5SUjYnPthbcMBZegTBATMY3fwFXsPLbroEhhijTS9fAVe6NPBhwe7B9n7HJRHn1pKJ5W4ceUbLHJUVo9NzeSFyss
+
+Minting 2434 tokens
+  Token: CTpJrsZZ5Pj9FJasfkGR7zvwit169AdprtefhHr3fQe9
+  Recipient: DRWg6dZpKrnv8jogEG1V6PB5FSjLHCFWketT5ZY3bWJ1
+
+Signature: 5KmLPKopMes8Hq4n2Gd3Pq78A7Z9XNH3F9fhomBmxWpBEMZPs9zQHbC3USF5xBwFGrWkTDFU2DZE3GQX6cmJtHzS
+
+error: The following required arguments were not provided:
+    <TOKEN_ADDRESS>
+    <TOKEN_AMOUNT>
+
+USAGE:
+    spl-token mint <TOKEN_ADDRESS> <TOKEN_AMOUNT> --config <PATH>
+
+For more information try --help
+error: The following required arguments were not provided:
+    <TOKEN_ADDRESS>
+    <TOKEN_AMOUNT>
+
+USAGE:
+    spl-token mint <TOKEN_ADDRESS> <TOKEN_AMOUNT> --config <PATH>
+
+For more information try --help
+error: The following required arguments were not provided:
+    <TOKEN_ADDRESS>
+    <TOKEN_AMOUNT>
+
+USAGE:
+    spl-token mint <TOKEN_ADDRESS> <TOKEN_AMOUNT> --config <PATH>
+
+For more information try --help
+error: The following required arguments were not provided:
+    <TOKEN_ADDRESS>
+    <TOKEN_AMOUNT>
+
+USAGE:
+    spl-token mint <TOKEN_ADDRESS> <TOKEN_AMOUNT> --config <PATH>
+
+For more information try --help
+error: The following required arguments were not provided:
+    <TOKEN_ADDRESS>
+    <TOKEN_AMOUNT>
+
+USAGE:
+    spl-token mint <TOKEN_ADDRESS> <TOKEN_AMOUNT> --config <PATH>
+
+For more information try --help
+error: The following required arguments were not provided:
+    <TOKEN_ADDRESS>
+    <TOKEN_AMOUNT>
+
+USAGE:
+    spl-token mint <TOKEN_ADDRESS> <TOKEN_AMOUNT> --config <PATH>
+
+For more information try --help
+error: The following required arguments were not provided:
+    <TOKEN_ADDRESS>
+    <TOKEN_AMOUNT>
+
+USAGE:
+    spl-token mint <TOKEN_ADDRESS> <TOKEN_AMOUNT> --config <PATH>
+
+For more information try --help
+error: Invalid value for '<TOKEN_AMOUNT>': Unable to parse input amount as integer or float, provided: undefined
+error: Invalid value for '<TOKEN_ADDRESS>': No such file or directory (os error 2)
+error: Invalid value for '<TOKEN_ADDRESS>': No such file or directory (os error 2)
+error: The following required arguments were not provided:
+    <TOKEN_ADDRESS>
+    <TOKEN_AMOUNT>
+
+USAGE:
+    spl-token mint <TOKEN_ADDRESS> <TOKEN_AMOUNT> --config <PATH>
+
+For more information try --help
+Minting 43434 tokens
+  Token: BKtgFgLYBx7MXDGsJV7ro7wdDu7DZVCPXKqQ7d7c5p8X
+  Recipient: 387RW7meLHiSdqwxU2RJZvCi77daBrZMBLtCFdcNgJEX
+
+Signature: 4161MwffF5qyCTvAG72dcLGsHszAg71pcLFA1Z7SqzsNeJCUW2vmPAqosDpPx5hQcXhu4R8USk2ZMAEH4RB8m3HF
+
+Minting 3424 tokens
+  Token: G6fLU7uvPYC4AkuwEcbfqEagPqLZPQtMgJu1PFtgPhHQ
+  Recipient: CtjppCXKCRzR9XMsGkPUxHxW7FeTFHyyuiK6oeK7K41d
+
+Signature: 2qhFqpa2224zWxvM52AEzvaNdGukv3FygazoAo49Tvab9wL2cpQiEZrpxeSDms3CXJ2VdZg5eAowsRud8ExdocjE
+
+Minting 34342 tokens
+  Token: CbG9rqBuZ1YykNMAiqx2VKc1TKWWo9sWR7awdPFVDoLN
+  Recipient: Ab7LWb6NAeNabogUHTW6iJHrKdxXRwmeQ5kLUa6JHriG
+
+Signature: 5vtTX23KnsMi82RAB8KFPmhc9STKC2KyxCRZMp5pTGrKnenwJSHe6hbPwmxz71YBxDpjZFxAXrP6S2zv9roCbgaJ
+
+Minting 34 tokens
+  Token: CGgzmqcEmYLjeZeg5A3hxouA8A5rWtcnv6U7MPYbgrBH
+  Recipient: 6d1xdRvnSCE4YGDQs3BKYWhfFwN2x1SYGs8TAvU6UHDT
+
+Signature: vfG9R5Ttqi3ZPW9sexDaJf5d4FTE3jJcGyWCLQdqYGwSoT6yyCDb4o6oF8Bv65B7MtSH5hc8C3dQfu1sXRcnBgF
+
+Minting 34432 tokens
+  Token: A1jUgwmsBbUytR24aePGC5HnMkgSg8dWRsGD1D7FmRHN
+  Recipient: 2P3sNLkcHFnvs2jTCFFrH22aBDVx66ByByFnt1Mxh8Ku
+
+Signature: 48nnBkea9WX8aPztRQchxUMxgn21pPXsbEjsdKJHzT59PqYhHTJYgDdPzmXbNrL31qrHgWtb2XpAmKzdq1gXd9cM
+
+Minting 332 tokens
+  Token: EoGxoxCSRiCheNfn45BjyjwB4y6txbgkK6YZvt1VqicK
+  Recipient: 7bE85HgBTfvgMzZzWjXwqBbP5GDEtuhqfvbViHiucSXi
+
+Signature: 4iTpbDXARzD43xx8bfMsY7EYwEWirHUH52hRmgAn6HrD8RjajHf33bBvH5CY8hQDx7gzn3BPocCg3VFrbhe4g55o
+
+Minting 34 tokens
+  Token: 9uYEovj9KRgdZqhmMqJ38RSgmSXhCKVFYHZUA7NvEtSq
+  Recipient: 2dBa5hDLhy8dq3fcLUx5oCx5opGAz9cwjBnBrY8X2Wtq
+
+Signature: 55ZJ7MchEEf3xaWNtVfB2vWR95z5mUctfZUzqMJC1zS3WwxwhdXb7jGsshMRsFZM8RutQ2Bd7PSNQzV9AnHudWV1
+
+Minting 3242 tokens
+  Token: C9KJzS5Z6iayorB4eHM18mnZ5xB725UYMwYCgJKcn3mH
+  Recipient: B4ZfjcYerBcGZPRKffYQUm8a461Pu4FRgDzj9cPVP1sH
+
+Signature: MqypoVJx4RBuncCdK8UEKgntkLZNnQz88hnMa86RudpSUKbFAnPoPdTJz8uggvXYR7mtc3wuJFzypShiRewdHAb
+
+Minting 3242 tokens
+  Token: EnTQDikS2ZVJBuu5aGKEz3VMjM1XyYUnndLzjdCmsLQs
+  Recipient: 354KKqvatmH7ctabp9FgKCCMFBjfq7JXXCd6Ygb3zsng
+
+Signature: 47NREeKFZFyrqQnNCR3KiD21xRPB7VruQzra9Nfhr4uazjz3Mw5abnDL3FFoS11huoCFyohryQKiHxhmfxvmQThQ
+
+Minting 2423 tokens
+  Token: Gjutu3EWMjvuSmRyCMKzUvqThhNJc3RLaqX7XMj1gekx
+  Recipient: 3M1CriN7VDKbM3X6RkJqQnVTZZgfmcfUmGotAgCqbE4T
+
+Signature: 5Q5Y6GgKQCtkCheU6n2t2EywSnLxgCbvNQcgAkPjVx9JaarA9KUc2EiFfxTWfs16PALposkMPWDVE3QtAoBCLydL
+
+Minting 324 tokens
+  Token: 878fSYt6FbDCzARvLGUKhM2CjJNxUJURoM6buzKmN4Go
+  Recipient: BMkyT8pQGr8Rt3G9YDTiCwZSSs541ts5PUm74U7eGZ3V
+
+Signature: 3xgK55QV6ofyeQU1s2CJGxzSw2vgkeBojvawFGVvtnbsxnsHC69NLo9VhmdMPbngozH3Ehsut6wQLA4XxYgYXpKM
+
+error: Invalid value for '<TOKEN_AMOUNT>': Unable to parse input amount as integer or float, provided: sadsa
+Minting 453 tokens
+  Token: 5aDomaYoKNMyCGjJhmLdhqKx5hsjndRTcjSjsQ6G34az
+  Recipient: 4vNa9UXECrfpZFsJgTvywPtWehv6brn3iAkBKEV8skph
+
+Signature: 64FdwBa5BGsRYgggMwP4hsoFw4SaRcAWKyd9PLfTXESFAuwjH9QW1GZPtYzQSQvFCBsfADud2nQirkHXtEZR3wgB
+
+Minting 324 tokens
+  Token: HQbDjCSQkCFXRyQFDSN9BaFz3pxXekhPyBXXgfnBxCVH
+  Recipient: AmeFWxnBhrVkg6ZEnnZB4Y47yAm4FsTf8YrBD6C6wZdD
+
+Signature: 3wYzDPcRtwKymJQV492vu4Wy6AZLWx94cZjzh78XP3C9siJY8HcJVsWGsmsekHJHFg8ighXwKeW5ooxYGwBLKxza
+
+error: The following required arguments were not provided:
+    <TOKEN_AMOUNT>
+
+USAGE:
+    spl-token mint <TOKEN_ADDRESS> <TOKEN_AMOUNT> --config <PATH>
+
+For more information try --help
+Minting 435 tokens
+  Token: DeLrSMMX8nwz4kva5W1p1vQ72tRhbcxs9SzybUkb4Ak5
+  Recipient: 4xj3HkmssoUgaYFHHtVzv4HUnDkvpHqR2tD9U2Dpp6Gg
+
+Signature: 5HiCPkkww1DUvHtPnbNyGLdEHAjx4vtixhXs9cCX5bjMn9KRyqARwB58SMPCbyBALwfYosDsGzv8yZFQepCVy2dQ
+
+error: Invalid value for '<TOKEN_AMOUNT>': Unable to parse input amount as integer or float, provided: asdsad
+error: Invalid value for '<TOKEN_AMOUNT>': Unable to parse input amount as integer or float, provided: sadas
+Minting 324 tokens
+  Token: EJB7qrUTcx8VLsffgJiHDGfUANNt573NtHD4Uxxd9kgG
+  Recipient: 8KwuAk9dBReim7xKgYAx84M8ZtJerdaSuqR5DxBVyhsc
+
+Signature: 6iVBZ4FEX7WeLhkHisDvgBkFgNfh1sxq1YB7NHSQQTxnVYpsYWQCy94NZdgg9ZKXTZUKSUpBaAoAFycp8tHw8C6
+
+Minting 342 tokens
+  Token: HRtZuLoontyj5fuyM3z7nnTrhBjZkT8X3yv88U2brYvE
+  Recipient: FbWcXKSAvmC1oF6pdcDehe63Q9b3RKaY5L2REAFSmV3k
+
+Signature: 2eZZN9MFpbSmSTWTtMTdcH1gk45dsDGabJGToeTVv21yuGFikHLv1fGLNDkBqDKBMPTSKRPFfTDNcSjKPvRAuyAn
+
+Minting 324 tokens
+  Token: 2CAoPLsqRvcZJ9ireAApHVgFerdVcXpcvLH2GZfrUC6d
+  Recipient: HxPtNBud5rEzQVTBZ32hh1rupNuKMRiHjsRGtPUs5w5Q
+
+Signature: 3neMKvQPYWq5DTMBTcTFyzSq6y4irRULiWmvHGs9E51ntBn7zHNhiSChuetKr8u4LRSjv4qbF3MsS3vQ5NAYZMZp
+
+error: Invalid value for '<TOKEN_AMOUNT>': Unable to parse input amount as integer or float, provided: sdasda
+Minting 324 tokens
+  Token: 5xEFwGevx6CtvZVh8eRSR6Gh1UFqCU7YWFtGbDJJWEx5
+  Recipient: D8xBtYPNHSSDBkYSEpnD6Vua2Mt6FC8Zc9L5jMi3kkj6
+
+Signature: 3vGjKCu7BWabKWfguhmwjHmL2H2KTzgYK3Hefhzqdf5e3FquYtMsAhC61sNrdLgvFMKmQiNWezcWNmmTPsRRExhp
+
+Minting 234 tokens
+  Token: 3FMzQ8sdxRwyhbQtxndgbYvUgbRfMA9ABE5kBgPqXA3h
+  Recipient: 69XaSKDsQgAmxaNGkoerwHMxhCV4ZgfVn63NJXzuERcu
+
+Signature: xLdiL64Eq3YJh3qP6Py9LW46whe1NK6di9iJxVtiHbmqq3FGkH21RA7UVXT2VMgAftxz3V3jsWcTo2JHAmdGyHk
+
+Minting 342 tokens
+  Token: 3fAWpoYNU1edQey3P8ErynC1qtRtbBtneNtkFSTa2TRY
+  Recipient: 5LYT9XErhgNFQYEbqpVDyDUyYvwZG3kfHg88pEyvnK2n
+
+Signature: 2t951yW15XU43CnBgDE5kfhH595gRWdYqUUwLZuktWv7FKRmTgtNwwpTUxTNUSEc2mvrKJLNkijHCTsXArDN5YRH
+
+error: Invalid value for '<TOKEN_AMOUNT>': Unable to parse input amount as integer or float, provided: dsda
+Minting 324 tokens
+  Token: HanZJegBWCpqRoZRes31h9JxnsaZ4f8BnZmtyVpJzQcg
+  Recipient: 98K5kPXy5TeXRmb3PFDqF6Hmn4VLCxwsxu3vj9A7TTEE
+
+Signature: 5cjU1U5GB9oJRXNjbLPLDgh7UwyAnsPHmihnys9pFMFhAWDbuxdFM28XNL45mKrENdVMSJLKpAg7WB3QPiX51E9g
+
+Minting 342 tokens
+  Token: GwMRJnnqDE5dzYkJHw5yNavTDyMYYZdcfkf744CKXbMN
+  Recipient: 637B9H2NppHSbi34qsi9Ha1EA2m17bwLrq8MhVZojFst
+
+Signature: 4fUBMXheTrJR3wKT583rriyj9rJLQRJmq2W2qRLt2qm1262fqkpDSmtQzVcxazpgn2s1KzA8cwLFF26izeDXU9Vv
+
+Minting 234 tokens
+  Token: 5wfzUUpCdDo2MeRPEPc4ofjrggEzQRmkw9zbugdWMdJT
+  Recipient: F6KnrBaDNc7wWaryoMmqWa9swoqgu4nWa5xtsPDWHBhS
+
+Signature: 249yTbUcaRzjNQGynqXjpC2PNeDifFtBckSsi3QdLNWNVV8ZHYhJ8wAetPrrBjJ5YztrwDLGLXEYzxvhnuFfAhLP
+
+Minting 3242 tokens
+  Token: 4zdM7XoLeFMQPGtR1bpcR5whp9UErtLFibaGy1Vn9kkc
+  Recipient: B5GLHwW3T15Ag4UVERKTc4PuDV6xeGwErbx1kW3p5xpg
+
+Signature: 5oJwms9WvhKFwF2goFGn49A1uQtLhrBxkzqaRySyWpcvbqarBqbyzjNquLJF7ztzAwvY9FQUrf8WJ8aDHso8xKdH
+
+Minting 342 tokens
+  Token: EG786Ggnj19qVkWywER94UpXLT8vTq6QvnZb7gf9Ehcu
+  Recipient: CVfjq22g6q9m9jsdmdvT5D4d9VE6xbQKkP448SZr7o8T
+
+Signature: 2Lt4focEW1zrYARBaJL8S2wcUsp7jmyAfZvi5yyjPNt19Qt9vSVGoDVarZPdpbU1rSAuYWd3PjtTt7yx3vkzNr1r
+
+Minting 3243 tokens
+  Token: EjgdLmBtDr3BNHcU2f9mxBHA9PPdyKGv4fdg3VK5emC6
+  Recipient: 6F4PLfUWBhDhEQTtXxE6ZCvgzX8pQ8sNXnDp6qVDtKjy
+
+Signature: wWTgrn89um9kNq5pguxdc1DqwxCtNyidh6T3jQB7cTtt8748NM4roQYoNmvo62JxFxA1Z7UWh4MDpawKEdAaED2
+
+Minting 324 tokens
+  Token: FZLsBo5Coy8xH4RYj4RGJeXApCLZdLaBx8XTUFtr4Kdz
+  Recipient: DB3RPDVe4vUtP5tQRLgLPCWPGNcszQ6V8FNEBvo6YqSU
+
+Signature: 3mjDeR7JRw36voux7dbEBK6DmZEmgFfdhhaEM46iSUDLJ4hk26oKXN64ZDDy1gsHtucAEBm8VS74QSKVw8B2Gocy
+
+Minting 324 tokens
+  Token: 2RAHQaLa7wFa1CbtLRM95SPzmYhRyvz3whQhCk6buWU7
+  Recipient: 4uLopTxt36Li2wbfaLGgRYU6dAVSxkXBmcymRQSLD1dA
+
+Signature: 5nFnwNhFvDXFkLVPxrPf11J8HTo3sKp1jucA1ckGZePQbXhQufy6HcrbanfNds1UMS7KSgx7Yn3YmaYRyFYxipy8
+
+Minting 3242 tokens
+  Token: HqfEonbfVnVaXGGgoQPE9y3v1Y8MUdsxT94qV5nuvQH6
+  Recipient: 7ohbqDfoScnAKmZtwiZMGDzsb1Ua6f9szx2Yqg12jToh
+
+Signature: jgna7JGtByAt4oeWadRETDvbQ43Lgjz6HEdVWYVkdSSh8AbhZQz8xWn9dDurczWDwGNL4dmxzhSXnqRGLN1vXF2
+
+Minting 324 tokens
+  Token: UEMqoZwYu8VkmHKiUSa4d3jciWySERBYPHi7VgDPCC9
+  Recipient: 7wR87Nj7uY6c8LRPNkx8JjU8ESpUSjA86FMxL5p4CQ6k
+
+Signature: 2icNiyrvvvGBtHd3BNytRh2PSTHs5yUnn6QHgt7vi4FpqTdgPYt4qLeUKeyyLEgf6pcXCiGoQgavmSMyKyQrwjUa
+
+Minting 3 tokens
+  Token: 3NF6NHhJKc9pX3MT2LUJz5SwLdygyryN9ManskwQQhh6
+  Recipient: 4mPM2qrkA3bFduevEbeRMESuUKQADCTTe8eLVyycCpmC
+
+Signature: RP9ZkPVaVwcgXQQ4TFNuQvuuAdK98b8UUqo2HXN981MGvh5hHWDyBVT44WcZfABzajQCFLUgAyWU6ssrUK8s9AY
+
+Minting 342 tokens
+  Token: CrYswXCVUgQ3NSZjuJ6oGuuRwiqaro25ZDzadAmbFztw
+  Recipient: H59HHnQE7VqYw9pHfnGveBiV861ukU6dw8eZonh9xKpc
+
+Signature: vV3vikWEn5YsvLoauxLRtvhDo63mkzhf3QAzs48LPyxNpRGKHsn1EsKcXgD7suTpEq2QGX24CwUw1iXd32rbPVV
+
+Minting 2311111 tokens
+  Token: EeLB7zgSMic4HGYUQuZRCSQ4qKeWtZLBQMMFBguvYbJE
+  Recipient: 8HPB97GEXgZe4acZzELg8m2jpbLWU5bZzPcS5n4x79o9
+
+Signature: 3xZgQzzXXK8pFAGUQVzKmYXYivNRcyq14CJZmn3F2cE5qi2ftMnpmPcnjNX7pRYZpKng1rtou3xabc6u1HKwKDXV
+
+Minting 324243 tokens
+  Token: GT1wt5stemKCY92UsX4ThTfCFFthmDNrVSZL6UVhT3NL
+  Recipient: EJGAzvPF2dpW1vrFnQr27ZVBT5Up9WvuXCi5gvVhra6J
+
+Signature: JgJaoNiu2Av2Cv6ibwCjWS6TiS6CQ7sqsn14sTWpSsvNKybAAyY7DiK1EZEjVCdeQLXvHw2gouT52pmmVhsQ7a6
+
+Minting 23424 tokens
+  Token: 399tLkiC6cXSyyRGE3vk7NU7L1hYwtf6ULMbT8vgpt3E
+  Recipient: GcGtcm6FUfG8pWiw9NUwCv8icumvuqkkvstRQWzXmUvG
+
+Signature: 4kSwnA7H1MmT44B22MTDA9WPgKmnrAYnxLqs3De2iubyKbgw9exfFDqm6HnWzqwnkdvY1oCA5tZ8P6cHD3g11GEY
+
+Minting 3242 tokens
+  Token: GrgvJU7uaPkk6rYXVpVPLPNsqM8KLaRMUUAsA2VTj5bU
+  Recipient: 9V3J7SnQJ1dTD58Fbe2UV9JB45GtMTiMbkPfDBAzgFXQ
+
+Signature: 19QS7Xs7LEAGYomiB2UefP3H3n6anWiMZjqoeF6rFqScbBCF27sy9CXrbisZHQgzLWDYxzg82rHAJsZCME9UwPc
+
+Minting 432 tokens
+  Token: BYHGJDnvES61hsGotzuhpi2qTwEDUJqQeAb8bMzc3Wn8
+  Recipient: DLiFusDBeUAnXdqc3V813UuknTx66WcqkHNoR7tHKgjF
+
+Signature: 2FTRjvTbammTh3N4goEMV2SPnNGS7ozHS7qCZFyC3EJ9t9ayvrf36wggMFVro6WZHXqKxWCmozVAcYwdspoy41aM
+
+Minting 34232 tokens
+  Token: 3zun6E7FiXg5TpntNw4to5fnpybgM2R5e3HV9PPR5BpH
+  Recipient: FHvjNtkSeALv36B3hNd49irpGBytTPPR3Z9pBydfT97Q
+
+Signature: 2FCcf4jYqM4qJsYZBFgtb8QMRoFxN3AR6UmbXohr6Lu3c2aQPwsy6VZWpBipESbY2RJgo3nj1UwXnVaQHD3QTmvU
+
+Minting 234244 tokens
+  Token: Ccc6gg1NmqtxAZzentpXnuYZeHTR6PyheuJSqm71V2HR
+  Recipient: Ezg5t8Y4ztAGnNPN39Wq799bJJGfQXkwzqkMBCyF3q2M
+
+Signature: 2suoQaCzPZrAprJxY6dTQtpDopmSvA8851j3MBv2Urz6s76hrW5QVvDYo7pozXsR18z36SEpATGT5A5v47F6h1WZ
+
+Minting 2 tokens
+  Token: HHVQc2fYFEgdRZC9L4hnoN4Mum1MAygrtSTrzt5CbA1D
+  Recipient: A3rR9B2fLT2gSkNeHg8PnpKyCSVBuN6UpebVamn7J8SJ
+
+Signature: 4HTmWre66vCeH7bsnupSY8adcHsJcUsNde11YohGSpN4LJGK1cmWptUTwep4Sd7YV6krqUaxAubKBC7SkA5DQxb6
+
+Minting 3 tokens
+  Token: 6ps5N66P1yWmoFQYpmktvNNDWMbxgBxvw4SR1kMNvCYw
+  Recipient: BEkFan2yMFGQRS8acvYKrAftxjfJRqZkRgnbZ5XLV4tv
+
+Signature: 39SWecsEvsrmLHuCq9Rt8BwUMtnfo5zm9Uhf15oNwJWWdEoJD263xA4KfaAcqdKjszYrHsbKS6Gtm9kc1mmEQwRQ
+
+Minting 3432 tokens
+  Token: D4WeEy5Bphr3BCWTdsrLeEW1s45fMXcDKL8irQAoPpyD
+  Recipient: A4eye2izNkTjaCZMZFgvS3mpGMVYybpZLgjUMDxCvNta
+
+Signature: 3YQbrPQDVEMkXrnwn5yuA7QUkyxHVDbuGEMjhrcLyhyrmz5XJ4r2GNfQ8KHQcNKuHrF1DHvadjqhVKBaSraYbFLa
+
+Minting 45 tokens
+  Token: ARAVofoqPGB7XsgpNoz4Xu4dbZYQLbGMT2NK8LqGUkjG
+  Recipient: FUioyY8MvAqPGib4JQ9Vr8eAq5Czj3UfN4TAv5Xr88XD
+
+Signature: 3cvnNorjCpUw6vsTEgYvZPJ3PoDMAu9JWPkfQCNVj4w5f86mR8T8UjWfHPFrkbXQs1MWyoUkZbDDFcWFsymc7Lk1
+
+Minting 34 tokens
+  Token: EqW6t4HSG3QgZcMbmgDD4WxLAdxsADRANQQJthM5WhUu
+  Recipient: 2iWYHdoAFWNnPn5MfMhTxWiLr1L95t7u46ssqh19zDvQ
+
+Signature: 2gPj632uorgjVjhM9jLMczN1RyZn7rSen7tSDoGLEJtcHvGft8i4ksYSAo1juA2h38Ns6wQdBiedvxF8bRqqGJwF
+
+Minting 42 tokens
+  Token: 5CX2LG3y4GqUQfSwzekbUBSCR8m6gTg13HnRfWELTydR
+  Recipient: 92JjTJxCugbpqAw42Hpxz752CxubP35ML6Hm7yF7BLKK
+
+Signature: 5ujoLJ1p7qv77YH5qa4WAsbxnw9NVtqxPA37bd3pVPi2BCD81fopKup7TGG396DYPP5uu4x731KBuKBMwJYSxSyJ
+
+Minting 32 tokens
+  Token: 3bvkksmWL32NQbp6shrgmFnsKuy8ijEisEsAmdcr1aBa
+  Recipient: 5cNQUrW37jtW8XvKJFhREkMFQFeUXmJN5X9qvpto27kM
+
+Signature: 3maPjrUmG3LfEwDz85c6HYAVAKvDX374rmcafuPh9pkgvMDv7g8B4Hg7AG84sdF2gYYL5tiMrT275Pcy8mi9wmu3
+
+Minting 23 tokens
+  Token: FyNNPnD4hH8qQYT2nMVcsyuyE46uPChmhH6aqD3cuC66
+  Recipient: EPk7CHBLy8ctwP6JW4mtcmBjJxbL6x4AaLUsdLCYVF2A
+
+Signature: 45GMCqSYsUV525hxppfu8p7wgQhCgFN4oACLYPS1RyCFPbCAL9w4CAHYBGQNPoMWQMh8rwaM72DZhBJR5eKimqLE
+
+Minting 34 tokens
+  Token: 2sQac8hwrMYtvGNrfsWevH8vkkRL6o7aMYr6RtW5BN79
+  Recipient: 691J8J9yjGZZb6vZxtYjhfADwCeq3zBiV56aQFKSAACe
+
+Signature: 4GrzH3QTvpSPX9hf2kdyW1rciYBhgRNLW1Sn8SjDEEPFiMd3sue3P34ETAzVt1oFEMbGAC8WVPS4MrKvEjiFXXxd
+
+Minting 234 tokens
+  Token: ERMmS54Bf6DfV4zEftUh65gheRvxf2vFy5hn8Sf9KvE3
+  Recipient: AxmmiB6mm4NidGUGr3zSngFNsm5WvxLTJbqeVEanwyvb
+
+Signature: 4wDWGXAGc32eXofDLK5kwAvZchPwQv4SFsupEnmXg2pcQh6uzhM69b2dVCmEJvotGtLUhk3QbiunCfE7idHH1KJY
+
